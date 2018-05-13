@@ -1,5 +1,7 @@
 
 import math
-print(dir(math));
+print(math.sqrt(10));
+print(math.pi);
+#print(dir(math));
 
-print("you are advenced pythone programer");
+print("you are advenhello.py:5ced pythone programer");
